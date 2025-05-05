@@ -33,7 +33,7 @@ I've implemented a simple chatbot using several natural language processing (NLP
 
 **Data**: I've included a small set of question-answer pairs in the raw_data dictionary. This serves as the chatbot's knowledge base, enabling it to answer specific questions.
 
-**Greeting Check**: First, I check if the input is a greeting using the check_greeting() function.
+**Greeting Check**: First, I checked if the input is a greeting using the check_greeting() function.
 
 **Farewell Check**: Then, I use spaCy to check if the user is saying goodbye.
 
