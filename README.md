@@ -54,6 +54,7 @@ If the user enters "bye", "exit", or "quit", the chatbot says goodbye, and the l
 Otherwise, the  chatbot_response()  function is called to generate the chatbot's reply, and the reply is printed to the console.
 
 APPLICATION
+
 **Customer Support**
 Provide instant, 24/7 responses to common customer queries, reducing the need for human agents.
 
