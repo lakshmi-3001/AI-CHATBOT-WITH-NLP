@@ -56,11 +56,15 @@ Otherwise, the  chatbot_response()  function is called to generate the chatbot's
 APPLICATION
 **Customer Support**
 Provide instant, 24/7 responses to common customer queries, reducing the need for human agents.
+
 **E-commerce Assistance**
 Recommend products, assist with order tracking, and help recover abandoned carts.
+
 **Healthcare Support**
 Offer symptom checks, schedule appointments, and send medication reminders.
+
 **Education & Tutoring**
 Act as virtual tutors, answering student questions and providing personalized learning support.
+
 **HR and Recruitment**
 Automate candidate screening, answer job-related questions, and help onboard new employees.
